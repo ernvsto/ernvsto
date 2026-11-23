@@ -30,18 +30,3 @@ I spend my time writing backend logic in Python, breaking and fixing Linux setup
 
 ---
 
-#### 🛠️ Things I've Built & Broken
-
-- **[`todo-cli`](https://github.com/ernvsto)** — Fast, keyboard-driven command-line task manager written in Python on Fedora.
-- **[`flappy-bird-py`](https://github.com/ernvsto)** — 2D game loop, gravity physics, and collision detection built from scratch in Python.
-- **`Titan Tech`** — Hardware troubleshooting, custom desktop builds, and secondhand laptop/console restoration.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ernvsto&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="ernvsto stats" height="145" />
-</div>
-
-<p align="center">
-  <a href="https://ernvsto.dev">ernvsto.dev</a> • <a href="https://github.com/ernvsto">github.com/ernvsto</a>
-</p>
