@@ -1,18 +1,24 @@
-### Hey, I'm Ernesto 👋
+```bash
+ernvsto@fedora:~$ whoami --verbose
+```
 
-Software Engineering undergrad at **UPRM** 🐾. Building backend tools, exploring cloud architecture, and working with Linux & PC hardware.
-
----
-
-#### 🚀 Currently
-- 🎓 Studying **Software Engineering (INSO)** @ University of Puerto Rico at Mayagüez
-- 💻 Developing CLI tools & games in **Python**
-- ☁️ Training in **AWS** (Cloud, Machine Learning & Generative AI Foundations)
-- 🛠️ Troubleshooting, repairing, and building custom PCs (**Titan Tech**)
+**Ernesto Rivera Rivera** — Software Engineering undergrad at **UPRM** 🐾 (`Mayagüez, PR`).  
+I spend my time writing backend logic in Python, breaking and fixing Linux setups, exploring cloud infrastructure on AWS, and bringing dead PCs back to life under **Titan Tech**.
 
 ---
 
-#### ⚡ Tech & Tools
+```json
+{
+  "education": "B.S. Software Engineering (INSO) @ UPRM",
+  "focus": ["Backend Development", "Cloud & AI (AWS)", "Linux Systems"],
+  "hardware_lab": "Custom PCs, laptop diagnostics & retro console mods",
+  "daily_driver": "Fedora Linux / Windows dual-boot"
+}
+```
+
+---
+
+#### ⚡ Stack & Environment
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -24,12 +30,18 @@ Software Engineering undergrad at **UPRM** 🐾. Building backend tools, explori
 
 ---
 
-#### 📌 Featured Work
-- **[To-Do CLI](https://github.com/ernvsto)** — Command-line task manager built in Python on Fedora Linux.
-- **[Flappy Bird Clone](https://github.com/ernvsto)** — 2D game mechanics and collision logic implemented in Python.
+#### 🛠️ Things I've Built & Broken
+
+- **[`todo-cli`](https://github.com/ernvsto)** — Fast, keyboard-driven command-line task manager written in Python on Fedora.
+- **[`flappy-bird-py`](https://github.com/ernvsto)** — 2D game loop, gravity physics, and collision detection built from scratch in Python.
+- **`Titan Tech`** — Hardware troubleshooting, custom desktop builds, and secondhand laptop/console restoration.
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ernvsto&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ernvsto&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="ernvsto stats" height="145" />
 </div>
+
+<p align="center">
+  <a href="https://ernvsto.dev">ernvsto.dev</a> • <a href="https://github.com/ernvsto">github.com/ernvsto</a>
+</p>
